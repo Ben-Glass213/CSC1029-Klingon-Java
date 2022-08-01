@@ -1,0 +1,13 @@
+
+public class Q3Example2 {
+
+	/**
+	 * This
+	 * comment goes
+	 * across multiple lines of the code
+	 */
+	public static void main(String[] args) {
+		rItlh("Hello Klingon!");
+	}
+
+}

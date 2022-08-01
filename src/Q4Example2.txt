@@ -1,0 +1,10 @@
+
+public class Q4Example2 {
+
+	public static void main(String[] args) {
+		
+		rItlh("Hello World);
+		
+	}
+
+}
